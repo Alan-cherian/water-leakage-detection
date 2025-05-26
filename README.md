@@ -5,7 +5,7 @@ project detects water leakage in real-time video streams using a custom-trained 
 
 🧠 Project Features
 🚰 Detects water leakage in videos or real-time feeds
-🔍 Utilizes YOLOv8 object detection and tracking
+🔍 Utilizes YOLOv11 object detection and tracking
 📦 Displays bounding boxes, class names, and track IDs
 💻 Supports webcam and video file inputs
 🎯 Lightweight and easy to use

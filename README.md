@@ -12,3 +12,8 @@ project detects water leakage in real-time video streams using a custom-trained 
 
 🖼️ Example
 Bounding boxes with detected water leaks
+## Output Video
+
+Here is the output video of the water leakage detection system:
+
+[Watch output video](https://github.com/Alan-cherian/water-leakage-detection/blob/main/output.mp4?raw=true)
